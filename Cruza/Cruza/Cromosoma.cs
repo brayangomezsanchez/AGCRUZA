@@ -9,6 +9,7 @@ using System.Threading.Tasks;
  *    Materia: Algoritmos Geneticos 
  * Realizado Por: Gómez Sánchez Brayan Omar
  *         Fecha: 28 de marzo 2018
+ * https://github.com/brayangomezsanchez/AGCRUZA
  */
 
 namespace Cruza
