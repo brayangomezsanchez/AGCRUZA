@@ -1,0 +1,6 @@
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\bin\Debug\Cruza.exe.config
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\bin\Debug\Cruza.exe
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\bin\Debug\Cruza.pdb
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\obj\Debug\Cruza.csprojResolveAssemblyReference.cache
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\obj\Debug\Cruza.exe
+C:\Users\YONIC\Documents\ICO\2018A\Algoritmos_Geneticos\Cruza\Cruza\obj\Debug\Cruza.pdb
